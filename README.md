@@ -4,9 +4,13 @@ Your client program must receive the following six arguments:
 
 port: a server IP port
 repetition: the repetition of sending a set of data buffers
+
 nbufs: the number of data buffers
+
 bufsize: the size of each data buffer (in bytes)
+
 serverIp: a server IP name
+
 type: the type of transfer scenario: 1, 2, or 3 (see below)
 
 
@@ -14,6 +18,7 @@ Server
 Your server program must receive the following two arguments:
 
 port: a server IP port
+
 repetition: the repetition of sending a set of data buffers
 
 
