@@ -1,5 +1,6 @@
 # TCP-Client-Server
-Client.cpp
+
+**Client.cpp**
 Your client program must receive the following six arguments:
 
 port: a server IP port
@@ -14,7 +15,10 @@ serverIp: a server IP name
 type: the type of transfer scenario: 1, 2, or 3 (see below)
 
 
-Server
+
+
+
+**Server**
 Your server program must receive the following two arguments:
 
 port: a server IP port
