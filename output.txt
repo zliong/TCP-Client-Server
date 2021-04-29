@@ -1,0 +1,35 @@
+Server Port: 24689 Repetition: 20000 nbuf: 15 bufsize: 100 Serverip: 127.0.0.1 Type: 1
+data-receiving time = 434744 usec, data-receiving time = 434027 usec, data-receiving time = 393472 usec
+Test 1: Data sending time = 395912 usecs, Round-Trip time = 435710 usecs, #reads = 61763
+
+Server Port: 24689 Repetition: 20000 nbuf: 15 bufsize: 100 Serverip: 127.0.0.1 Type: 2
+data-receiving time = 52636 usec
+Test 2: Data sending time = 52630 usecs, Round-Trip time = 52749 usecs, #reads = 20000
+
+Server Port: 24689 Repetition: 20000 nbuf: 15 bufsize: 100 Serverip: 127.0.0.1 Type: 3
+data-receiving time = 24672 usec
+Test 3: Data sending time = 24656 usecs, Round-Trip time = 24993 usecs, #reads = 20000
+
+Server Port: 24689 Repetition: 20000 nbuf: 30 bufsize: 50 Serverip: 127.0.0.1 Type: 1
+data-receiving time = 986518 usec
+Test 1: Data sending time = 986509 usecs, Round-Trip time = 986524 usecs, #reads = 168146
+
+Server Port: 24689 Repetition: 20000 nbuf: 30 bufsize: 50 Serverip: 127.0.0.1 Type: 2
+data-receiving time = 78146 usec
+Test 2: Data sending time = 78130 usecs, Round-Trip time = 78912 usecs, #reads = 20000
+
+Server Port: 24689 Repetition: 20000 nbuf: 30 bufsize: 50 Serverip: 127.0.0.1 Type: 3
+data-receiving time = 63556 usec
+Test 3: Data sending time = 24037 usecs, Round-Trip time = 63731 usecs, #reads = 20000
+
+Server Port: 24689 Repetition: 20000 nbuf: 60 bufsize: 25 Serverip: 127.0.0.1 Type: 1
+data-receiving time = 2210024 usec
+Test 1: Data sending time = 2210012 usecs, Round-Trip time = 2210115 usecs, #reads = 267073
+
+Server Port: 24689 Repetition: 20000 nbuf: 60 bufsize: 25 Serverip: 127.0.0.1 Type: 2
+data-receiving time = 114671 usec
+Test 2: Data sending time = 114610 usecs, Round-Trip time = 115105 usecs, #reads = 20000
+
+Server Port: 24689 Repetition: 20000 nbuf: 60 bufsize: 25 Serverip: 127.0.0.1 Type: 3
+data-receiving time = 24530 usec
+Test 3: Data sending time = 24517 usecs, Round-Trip time = 24645 usecs, #reads = 20000
